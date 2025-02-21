@@ -104,7 +104,7 @@ A fork of a library which all of the “Simple” app families utilize. This pac
 
 -   Distributed on Google Play and Apple Stores
 
-[<img src="https://infiniwaresolutions.com/gallery/google-play-badge-ts1630024561.png?ts=1721078052" width="150">](https://play.google.com/store/apps/details?id=com.infiniwaresolutions.secret_dreams.release) [<img src="https://infiniwaresolutions.com/gallery/apple-app-store-black-ts1661025588.svg?ts=1721078052" width="150">](https://apps.apple.com/us/app/secret-dreams-music-festival/id1628198649)
+[<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/details?id=com.infiniwaresolutions.secret_dreams.release) [<img src="images/apple-app-store-badge.svg" width="150">](https://apps.apple.com/us/app/secret-dreams-music-festival/id1628198649)
 
 ## Resonance Music and Arts Festival
 
@@ -117,7 +117,7 @@ A fork of a library which all of the “Simple” app families utilize. This pac
 -   Distributed on Google Play and Apple Stores
 
 
-[<img src="https://infiniwaresolutions.com/gallery/google-play-badge-ts1630024561.png?ts=1721078052" width="150">](https://play.google.com/store/apps/details?id=com.infiniwaresolutions.entertainmentschedule.resonance)
+[<img src="images/google-play-badge.png" width="150">](https://play.google.com/store/apps/details?id=com.infiniwaresolutions.entertainmentschedule.resonance)
 
 ## Sekwel Tablet App
 
