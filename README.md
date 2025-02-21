@@ -1,4 +1,10 @@
-## Hi there 👋
+## Mike Wielgosz
+
+Last update on: Feburary 20, 2025
+
+Welcome to my GitHub! I am a software engineer with a passion for mobile development.
+
+Please check out my [Mobile Development Portfolio Overview](MOBILE.md) page for more information on projects I have worked on.
 
 <!--
 **mwielgosz/mwielgosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
