@@ -1,6 +1,6 @@
 # Mobile Project Portfolio Overview
 **Michael Wielgosz**\
-Last edited on: February 20, 2025
+Last update on: February 20, 2025
 
 This document highlights mobile applications that I have developed or worked on to some capacity
 
